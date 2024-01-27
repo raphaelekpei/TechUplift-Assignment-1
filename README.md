@@ -24,6 +24,7 @@ SaaS (for end-users and business professionals)
 - Examples of AWS services that can be categorized as SaaS are AWS Trusted Advisor, AWS Shield, Amazon Connect, Amazon WorkDocs, Amazon Chime, Amazon Honeycode, and Amazon WorkMail.
 
 Linux Command Hands-on
+
 ls (List):
 
 Purpose: Lists the contents of a directory.
